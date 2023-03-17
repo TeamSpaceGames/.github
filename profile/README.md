@@ -9,4 +9,4 @@ Main:
 ```
 
 ## 우리를 누구보다 잘 소개할 수 있는 사이트에요!
-- (사이트 바로가기)[https://teammu.xyz/eaf-484da/]
+- [사이트 바로가기](https://teammu.xyz/eaf-484da/)
